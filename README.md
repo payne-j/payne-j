@@ -9,3 +9,5 @@ People ask me what I do. Here's the list:
 ○ Traveler
 
 ○ Vinyl-Enthusiast 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=payne-j&count_private=true)
